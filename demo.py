@@ -1,3 +1,4 @@
+# coding=utf-8
 import Chatbot.console as console
 import Chatbot.chatbot as Chatbot
 
